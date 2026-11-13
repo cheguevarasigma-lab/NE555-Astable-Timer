@@ -1,0 +1,9 @@
+﻿Reference,Description / Value,Footprint,Quantity,Notes
+C1,10nF,CAP-D3.0×F1.5,1,10 nF control-pin capacitor; verify actual part and footprint.
+C2,100 µF,CAP-D3.0×F1.5,1,100 µF timing electrolytic; confirm polarity and physical lead spacing.
+H1,HDR-F-2.54_1x2,HDR-F-2.54_1X2,1,2-pin 2.54 mm power connector; confirm +5V/GND pin order.
+LED1,LED-TH-3mm_G,LED-TH_BD3.0_GREEN,1,
+R1,1k,R_AXIAL-0.3,1,
+R2,10k,R_AXIAL-0.3,1,
+R3,220 Ω,R_AXIAL-0.3,1,
+U1,NE555N,DIP-8_L9.8-W6.6-P2.54-LS7.6-BL,1,NE555N DIP-8 through-hole IC.

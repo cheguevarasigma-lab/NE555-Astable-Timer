@@ -1,0 +1,1 @@
+Add a license only after deciding how you want others to reuse your original design and documentation. The included EasyEDA exports and third-party component models may have separate terms.
