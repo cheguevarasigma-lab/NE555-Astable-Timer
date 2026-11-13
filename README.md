@@ -90,4 +90,4 @@ Do not describe the board as manufactured or tested until a physical prototype h
 
 ## Author
 
-Add your preferred public display name, institution (if desired), and GitHub profile link here. Do not publish private contact details.
+karun and GitHub profile link here.
