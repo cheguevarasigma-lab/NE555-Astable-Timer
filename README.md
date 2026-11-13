@@ -90,4 +90,4 @@ Do not describe the board as manufactured or tested until a physical prototype h
 
 ## Author
 
-karun and GitHub profile link here.
+GitHub: https://github.com/cheguevarasigma-lab
