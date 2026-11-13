@@ -43,18 +43,25 @@ For RA = 1 kΩ, RB = 10 kΩ and C = 100 µF:
 
 These are idealized calculations; actual timing depends on component tolerances and the selected NE555 device.
 
-## Circuit connections
+## Project Files
 
-See [`documentation/Connections.md`](documentation/Connections.md) for the pin-by-pin connection reference. Check the EasyEDA schematic against this table before fabrication.
+### Schematic
+[Download Schematic PDF](YOUR_SCHEMATIC_FILENAME.pdf)
 
-## Repository contents
+### PCB Design
+[Download Gerber ZIP](YOUR_GERBER_FILENAME.zip)
 
-- `schematic/NE555_Schematic.pdf` — exported schematic PDF.
-- `pcb/Gerber_Files_EasyEDA_Export.zip` — Gerber and drill export from EasyEDA.
-- `bom/BOM.csv` — normalized UTF-8 BOM for viewing and editing.
-- `bom/BOM_EasyEDA_Original_Export.csv` — original EasyEDA BOM export.
-- `images/PCB_3D_View.png` — 3D PCB render supplied during design review.
-- `documentation/` — calculations, connections and fabrication checklist.
+### Bill of Materials
+[View BOM CSV](YOUR_BOM_FILENAME.csv)
+
+### 3D PCB Preview
+![NE555 PCB](PCB_3D_View.png)
+
+## Calculations
+[View Calculations](Calculations.md)
+
+## Connections
+[View Connections](Connections.md)
 
 ## Design review and limitations
 
